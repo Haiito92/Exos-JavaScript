@@ -1,0 +1,12 @@
+ul{
+    list-style: none;
+    font-size: 200%;
+    font-weight: 700;
+}
+
+.rouge{
+    color: red;
+}
+ .black{
+    color: black;
+ }
